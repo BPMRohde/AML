@@ -1,2 +1,2 @@
 Necessary packages
-pip install pandas numpys matplotlib scikit-learn fastparquet
+pip install pandas numpy matplotlib scikit-learn fastparquet

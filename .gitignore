@@ -28,4 +28,4 @@ venv/
 .venv/
 env/
 /AML
-AML
+AML.DS_Store
